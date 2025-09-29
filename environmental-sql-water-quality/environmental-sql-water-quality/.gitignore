@@ -1,0 +1,8 @@
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# OS cruft
+.DS_Store
+Thumbs.db
